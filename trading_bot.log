@@ -1,0 +1,27 @@
+2026-03-07 23:20:04,398 Error BTC/USDT 5m: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2026-03-07 23:20:08,578 Error BTC/USDT 15m: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2026-03-07 23:20:13,596 Error ETH/USDT 5m: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2026-03-07 23:21:48,227 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:21:53,336 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:21:57,430 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:22:01,840 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:28:09,150 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:28:11,979 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:28:14,878 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:28:24,414 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:29:28,605 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:29:31,682 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:29:35,057 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:29:38,096 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:30:41,414 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:30:44,894 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:30:48,375 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:30:52,061 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:31:55,242 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:31:58,212 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:32:01,338 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:32:04,567 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:33:07,843 Error BTC/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:33:10,821 Error BTC/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:33:13,898 Error ETH/USDT 5m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
+2026-03-07 23:33:17,251 Error ETH/USDT 15m: kucoin {"code":"400006","msg":"Invalid request ip, the current clientIp is:109.126.176.160"}
